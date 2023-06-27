@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+#marq{
+    color: red;
+    font-size: 30px;
+    font-style: oblique;
+    background-color: yellow ;
+}
+#logo{
+    margin-top: 50px;
+    height: 200px;
+}
+.aling{
+    text-align: center;
+}
+#head{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    color: goldenrod;
+}
+.pic{
+    height: 250px;
+    width: 300px;
+}
+.head2{
+    color: white;
+    font-size: 50px;
+    font-family: 'Crimson Text', serif;
+}
+#info{
+    text-align: center;
+    background-color: white;
+}
+.about{
+    height: 100px;
+    width: 100px;
+}
