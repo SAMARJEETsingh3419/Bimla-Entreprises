@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+#marq{
+    color: red;
+    font-size: 30px;
+    font-style: oblique;
+    background-color: yellow ;
+}
+#logo{
+    margin-top: 50px;
+    height: 200px;
+}
+.aling{
+    text-align: center;
+}
+#head{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    color: goldenrod;
+}
+.pic{
+    height: 250px;
+    width: 300px;
+}
+.head2{
+    color: white;
+    font-size: 25px;
+    font-family: 'Crimson Text', serif;
+}
+*{
+    box-sizing: border-box;
+}
+.about{
+    background-color: white;
+    float: left;
+    width: 25%;
+    padding: 5px ;
+}
+#info::after {
+    content: "";
+    display: table;
+    clear: both;
+}
